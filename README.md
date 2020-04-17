@@ -1,12 +1,15 @@
 ## <center> 문법 및 화용론적 자질을 고려한 어텐션 네트워크 기반 상호참조해결</center>
 ### <center>Combining Linguistic & Pragmatic Features with Transformer for Coreference Resolution</center> <br><br><br>
+
 ### 1. 서론
 #### 1.1 연구목적
 #### 1.2 연구방법 및 기여
 #### 1.3 논문의 구성 <br><br><br>
+
 ### 2. 이론적 배경
 #### 2.1 용어와 정의
 
+<br><br><br>
 ### 참고문헌
 ***
 * 강승식․윤보현․우종우(2004), “Coreference Resolution을 위한 3인칭 대명사의 선행사 결정 규칙,” 소프트웨어 및 데이터 공학 11(2), 227-232
