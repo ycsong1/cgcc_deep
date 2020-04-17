@@ -30,10 +30,10 @@
 * Clark, K. and Manning, C. D. (2015), “Entity-centric coreference resolution with model stacking,” Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 1405–1415.
 * Clark, K. and Manning, C. D. (2016), “Deep reinforcement learning for mention-ranking coreference models,” Proceedings of the 2016 Conference on EMNLP, 2256–2262.
 * Denis, F. and Baldridge, J. (2008), “Specialized models and ranking for coreference resolution,” Proceedings of the 2016 Conference on EMNLP, 660–669.
-* Devlin, J., Chang, M., Lee, K. and Toutanova, K. (2019), “BERT: Pre-training of deep bidirectional transformers for language under￾standing,” Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 4171–4186.
+* Devlin, J., Chang, M., Lee, K. and Toutanova, K. (2019), “BERT: Pre-training of deep bidirectional transformers for language understanding,” Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 4171–4186.
 * Durrett, G. and Klein, D. (2013), “Easy victories and uphill battles in coreference resolution,” Proceedings of the 2013 Conference on EMNLP, 1971–1982.
 * Fei, H., Li, X., Li, D., and Li, P. (2019), “End-to-end deep reinforcement learning based coreference resolution,” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 660–665.
-* Fernandes, E., Santos, C., and Milidi´u, R. (2012), “Latent structure perceptron with feature in￾duction for unrestricted coreference resolution,” Joint Conference on EMNLP and CoNLL – Shared Task, 41–48. 
+* Fernandes, E., Santos, C., and Milidi´u, R. (2012), “Latent structure perceptron with feature induction for unrestricted coreference resolution,” Joint Conference on EMNLP and CoNLL – Shared Task, 41–48. 
 * Li, H., Wang, A., Liu, Y., Tang, D., Lei, Z., and Li, W. (2019), “An Augmented Transformer Architecture for Natural Language Generation Tasks,” arXiv preprint arXiv:1910.13634v1.
 * Lu, Z., Du, P., and Nie, J. (2020), “VGCN-BERT: Augmenting BERT with Graph Embedding for Text Classification,” ECIR 2020: Advances in Information Retrieval, 369-382.
 * Jawahar, G., Sagot, B., and Seddah, D. (2019), “What does BERT learn about the structure of language?” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3651-3657.
@@ -42,12 +42,12 @@
 * Kantor, B. and Globerson, A. (2019), “Coreference resolution with entity equalization,” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 673–677.
 * Lee, K., He, L., Lewis, M., and Zettlemoyer, L. (2017), “End-to-end Neural Coreference Resolution,” Proceedings of the 2017 Conference on EMNLP, 188-197.
 * Lee, K., He, L., and Zettlemoyer, L. (2018), “Higher-order Coreference Resolution with Coarse-to-fine Inference,” Proceedings of NAACL-HLT, 687-692.
-* Liu, F., Zettlemoyer, L., and Eisenstein, J. (2019), “The referential reader: A recurrent entity network for anaphora resolution,” Proceedings of the 57th Annual Meeting of the Association for Com￾putational Linguistics, 5918–5925.
+* Liu, F., Zettlemoyer, L., and Eisenstein, J. (2019), “The referential reader: A recurrent entity network for anaphora resolution,” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 5918–5925.
 * Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., and Stoyanov, V. (2019), “RoBERTa: A robustly optimized BERT pretraining approach,” arXiv preprint arXiv:1907.11692v1.
 * Martschat, S. and Strube, M. (2015), “Latent structures for coreference resolution,” Transactions of the Association for Computational Linguistics, 3:405–418.
 * Ng, V. (2017), “Machine Learning for Entity Coreference Resolution: A Retrospective Look at Two Decades of Research,” Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAA-17), 4877-4884.
 * Ng, V. and Cardie, C. (2002), “Identifying anaphoric and non-anaphoric noun phrases to improve coreference resolution,” Proceedings of the 19th International Conference on Computational Linguistics - Volume 1, COLING, 1–7.
-* Pradhan, S., Moschitti, A., Xue, N., Uryupina, O., and Zhang, Y. (2012), “Con￾ll-2012 shared task: Modeling multilingual unrestricted coreference in ontonotes,” Joint Conference on EMNLP and CoNLL - Shared Task, 1–40.
+* Pradhan, S., Moschitti, A., Xue, N., Uryupina, O., and Zhang, Y. (2012), “Conll-2012 shared task: Modeling multilingual unrestricted coreference in ontonotes,” Joint Conference on EMNLP and CoNLL - Shared Task, 1–40.
 * Ren, M. and Kang, S. (2016), “A Context-Restricted Multi-Stage Korean Coreference Resolution Model,” International Journal of Software Engineering and Its Applications Vol. 10, No. 2, 139-148.
 * Sukthanker, R., Poria, S., Cambria, E., and Thirunavukarasu, R. (2018), “Anaphora and Coreference Resolution: A Review,” arXiv preprint arXiv:1805.11824.
 * Webster, K. and Nothman, J. (2016), “"Using Mention Accessibility to Improve Coreference Resolution," The 54th Annual Meeting of the Association for Computational Linguistics.
