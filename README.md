@@ -1,7 +1,11 @@
 ## <center> 문법 및 화용론적 자질을 고려한 어텐션 네트워크 기반 상호참조해결</center>
 ### <center>Combining Linguistic & Pragmatic Features with Transformer for Coreference Resolution</center> <br><br><br>
-
-
+### 1. 서론
+#### 1.1 연구목적
+#### 1.2 연구방법 및 기여
+#### 1.3 논문의 구성 <br><br><br>
+### 2. 이론적 배경
+#### 2.1 용어와 정의
 
 ### 참고문헌
 ***
