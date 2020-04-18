@@ -2,26 +2,26 @@
 ### <center>Combining Linguistic & Pragmatic Features with Transformer for Coreference Resolution</center> <br><br><br>
 
 ### 1. 서론
-#### 1.1 연구목적
-#### 1.2 연구방법 및 기여
-#### 1.3 논문의 구성 <br><br><br>
+####  1.1 연구목적
+####  1.2 연구방법 및 기여
+####  1.3 논문의 구성 <br><br><br>
 
 ### 2. 이론적 배경
-#### 2.1 용어와 정의
-#### 2.1.1 조응어와 상호참조
-#### 2.2 데이터세트
-#### 2.2.1 Message Undedrstanding Conferences
-#### 2.2.2 Automatic Content Extraction
-#### 2.2.3 OntoNotes
-#### 2.3 평가도구
-#### 2.3.1 MUC
-#### 2.3.2 B3
-#### 2.3.3 CEAF
-#### 2.3.4 BALNC 
-#### 2.3.5 CoNLL
-#### 2.3.6 Error-Driven Evaluation
-#### 2.4 상호참조해결 모델
-#### 2.5 문법 및 화용론적 자질 
+####  2.1 용어와 정의
+####  2.1.1 조응어와 상호참조
+####  2.2 데이터세트
+####   2.2.1 Message Undedrstanding Conferences
+####   2.2.2 Automatic Content Extraction
+####   2.2.3 OntoNotes
+####  2.3 평가도구
+####   2.3.1 MUC
+####   2.3.2 B3
+####   2.3.3 CEAF
+####   2.3.4 BALNC 
+####   2.3.5 CoNLL
+####   2.3.6 Error-Driven Evaluation
+####  2.4 상호참조해결 모델
+####  2.5 문법 및 화용론적 자질 
 
 <br><br><br>
 ### 참고문헌
