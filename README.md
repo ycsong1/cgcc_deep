@@ -10,18 +10,27 @@
 #### &nbsp;&nbsp; 2.1 용어와 정의
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1.1 조응어와 상호참조
 #### &nbsp;&nbsp; 2.2 데이터세트
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.1 Message Undedrstanding Conferences
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.2 Automatic Content Extraction
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.3 OntoNotes
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 Message Undedrstanding Conferences
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2.2 Automatic Content Extraction
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2.3 OntoNotes
 #### &nbsp;&nbsp; 2.3 평가도구
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.1 MUC
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.2 B3
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.3 CEAF
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.4 BALNC 
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.5 CoNLL
-#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.6 Error-Driven Evaluation
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3.1 MUC
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3.2 B3
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3.3 CEAF
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3.4 BALNC 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3.5 CoNLL
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3.6 Error-Driven Evaluation
 #### &nbsp;&nbsp; 2.4 상호참조해결 모델
-#### &nbsp;&nbsp; 2.5 문법 및 화용론적 자질 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학 모델 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 담화 모델 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 멘션쌍(Mention-Pair) 모델
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4.4 개체 기반(Entitly Level) 모델
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4.5 구조화된 예측 모델 
+#### &nbsp;&nbsp; 2.5 상호참조 관련 자질 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조 자질 관련 언어학적 이론
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조해결을 위한 자질 
+
+
 
 <br><br><br>
 ### 참고문헌
