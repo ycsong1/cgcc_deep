@@ -13,15 +13,15 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.1 Message Undedrstanding Conferences
 #### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.2 Automatic Content Extraction
 #### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.3 OntoNotes
-#### &nbsp; 2.3 평가도구
-#### &nbsp;&nbsp;  2.3.1 MUC
-####   2.3.2 B3
-####   2.3.3 CEAF
-####   2.3.4 BALNC 
-####   2.3.5 CoNLL
-####   2.3.6 Error-Driven Evaluation
-####  2.4 상호참조해결 모델
-####  2.5 문법 및 화용론적 자질 
+#### &nbsp;&nbsp; 2.3 평가도구
+#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.1 MUC
+#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.2 B3
+#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.3 CEAF
+#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.4 BALNC 
+#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.5 CoNLL
+#### &nbsp;&nbsp;&nbsp;&nbsp;  2.3.6 Error-Driven Evaluation
+#### &nbsp;&nbsp; 2.4 상호참조해결 모델
+#### &nbsp;&nbsp; 2.5 문법 및 화용론적 자질 
 
 <br><br><br>
 ### 참고문헌
