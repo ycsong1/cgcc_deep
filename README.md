@@ -21,17 +21,18 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.5 CoNLL
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.6 Error-Driven Evaluation
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.4 상호참조해결 모델
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 담화 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 멘션쌍(Mention-Pair) 모델
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.4 개체 기반(Entitly Level) 모델
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.5 구조화된 예측 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.5 상호참조 관련 자질 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학적 모델 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 모델 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 기계학습 모델
+ #### &nbsp;&nbsp;&nbsp;&nbsp; 2.5 상호참조 관련 자질 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조 자질 관련 언어학적 이론
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조해결을 위한 자질 <br><br><br>
 
 ### 3. 연구방법
-
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4 품사
 
 
 <br><br><br>
