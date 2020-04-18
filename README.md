@@ -28,7 +28,9 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.4.5 구조화된 예측 모델 
 #### &nbsp;&nbsp; 2.5 상호참조 관련 자질 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조 자질 관련 언어학적 이론
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조해결을 위한 자질 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조해결을 위한 자질 <br><br><br>
+
+### 3. 연구방법
 
 
 
