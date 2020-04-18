@@ -2,13 +2,13 @@
 ### <center>Combining Linguistic & Pragmatic Features with Transformer for Coreference Resolution</center> <br><br><br>
 
 ### 1. 서론
-#### &nbsp 1.1 연구목적
-#### &nbsp 1.2 연구방법 및 기여
-#### &nbsp 1.3 논문의 구성 <br><br><br>
+#### &nbsp; 1.1 연구목적
+#### &nbsp; 1.2 연구방법 및 기여
+#### &nbsp; 1.3 논문의 구성 <br><br><br>
 
 ### 2. 이론적 배경
-#### &nbsp 2.1 용어와 정의
-#### &nbsp; &nbsp 2.1.1 조응어와 상호참조
+#### &nbsp; 2.1 용어와 정의
+#### &nbsp; &nbsp; 2.1.1 조응어와 상호참조
 ####  2.2 데이터세트
 ####   2.2.1 Message Undedrstanding Conferences
 ####   2.2.2 Automatic Content Extraction
