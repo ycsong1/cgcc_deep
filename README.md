@@ -13,8 +13,8 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.1 Message Undedrstanding Conferences
 #### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.2 Automatic Content Extraction
 #### &nbsp;&nbsp;&nbsp;&nbsp;  2.2.3 OntoNotes
-####  2.3 평가도구
-####   2.3.1 MUC
+#### &nbsp; 2.3 평가도구
+#### &nbsp;&nbsp;  2.3.1 MUC
 ####   2.3.2 B3
 ####   2.3.3 CEAF
 ####   2.3.4 BALNC 
