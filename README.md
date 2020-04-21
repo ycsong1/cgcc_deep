@@ -74,6 +74,7 @@
 * Jawahar, G., Sagot, B., and Seddah, D. (2019), “What does BERT learn about the structure of language?” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3651-3657.
 * Joshi, M., Chen, D., Liu, Y. Weld, D. S., Zettlemoyer, L., and Levy, O. (2020), “SpanBERT: Improving Pre-training by Representing and Prediction Spans,” arXiv preprint arXiv:1907.10529v3.
 * Joshi, M., Levy O., Weld, D. S., and Zettlemoyer, L. (2019), “BERT for Coreference Resolution: Baselines and Analysis,” arXiv preprint arXiv:1908.09091v4.
+* Jurafsky, D. and Martin, J. (2019), Speech and Language Processing, Draft of October 2, 2019.
 * Kantor, B. and Globerson, A. (2019), “Coreference resolution with entity equalization,” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 673–677.
 * Lee, K., He, L., Lewis, M., and Zettlemoyer, L. (2017), “End-to-end Neural Coreference Resolution,” Proceedings of the 2017 Conference on EMNLP, 188-197.
 * Lee, K., He, L., and Zettlemoyer, L. (2018), “Higher-order Coreference Resolution with Coarse-to-fine Inference,” Proceedings of NAACL-HLT, 687-692.
