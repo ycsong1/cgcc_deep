@@ -90,6 +90,8 @@
 * Ng, V. (2017), “Machine Learning for Entity Coreference Resolution: A Retrospective Look at Two Decades of Research,” Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAA-17), 4877-4884.
 * Ng, V. and Cardie, C. (2002), “Identifying anaphoric and non-anaphoric noun phrases to improve coreference resolution,” Proceedings of the 19th International Conference on Computational Linguistics - Volume 1, COLING, 1–7.
 * Pradhan, S., Moschitti, A., Xue, N., Uryupina, O., and Zhang, Y. (2012), “Conll-2012 shared task: Modeling multilingual unrestricted coreference in ontonotes,” Joint Conference on EMNLP and CoNLL - Shared Task, 1–40.
+* Prince, E. (1981), “Toward a taxonomy of given-new information,” In Peter Cole (ed.), Radical Pragmatics, New York: Academic Press, 223-254.
+* Prince, E. (1992), “The ZPG letter: Subjects, definiteness, and information-status,” In William C. Mann and Sandra A. Thompson (Eds.), Discourse Description: Diverse linguistic analyses of a fund-raising text, Amsterdam & Philadelphia: John Benjamins Publishing Company, 295-326.
 * Ren, M. and Kang, S. (2016), “A Context-Restricted Multi-Stage Korean Coreference Resolution Model,” International Journal of Software Engineering and Its Applications Vol. 10, No. 2, 139-148.
 * Sukthanker, R., Poria, S., Cambria, E., and Thirunavukarasu, R. (2018), “Anaphora and Coreference Resolution: A Review,” arXiv preprint arXiv:1805.11824.
 * Webster, K. and Nothman, J. (2016), “"Using Mention Accessibility to Improve Coreference Resolution," The 54th Annual Meeting of the Association for Computational Linguistics.
