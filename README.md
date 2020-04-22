@@ -4,8 +4,8 @@
 ### 1. 서론
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.1 연구목적
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 연구방법 및 기여
-#### &nbsp;&nbsp;&nbsp;&nbsp; 1.3 논문의 구성 <br><br><br>
-
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.3 논문의 구성
+<br><br>
 ### 2. 이론적 배경
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2.1 용어와 정의
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1 조응어와 상호참조
@@ -24,25 +24,23 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학적 모델 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 모델 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 기계학습 모델
-<br><br><br>
-
+<br><br>
 ### 3. 연구방법
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 고차 추론 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 규칙기반 모델 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩을 통한 사전적 지식 활용
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
-<br><br><br>
-
+<br><br>
 ### 4. 실험 및 평가
-<br><br><br>
+<br><br>
 ### 5. 결론
-<br><br><br>
-### [참고문헌](#참고문헌)
-<br><br><br>
+<br><br>
+### [참고문헌](#강승식)
+<br><br>
 참고문헌
 ***
-* 강승식․윤보현․우종우(2004), “Coreference Resolution을 위한 3인칭 대명사의 선행사 결정 규칙,” 소프트웨어 및 데이터 공학 11(2), 227-232
+* #강승식․윤보현․우종우(2004), “Coreference Resolution을 위한 3인칭 대명사의 선행사 결정 규칙,” 소프트웨어 및 데이터 공학 11(2), 227-232
 * 김경석(2017), “지시 연쇄 삼각형: 조응과 연상, 직관적 동일 지시,” 어학연구 53(2), 391-414.
 * 김경석․김서영(2016), “조응에서 ‘연상’과 ‘추론’의  대위적  상관성,” 어학연구 52(3), 369-392.
 * 김기훈․박천음․이창기․김현기(2019), “고차 추론을 이용한 한국어 End-to-end 신경망 기반 상호 참조해결,” Proceeding of KCC.
