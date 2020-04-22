@@ -24,21 +24,28 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학적 모델 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 모델 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 기계학습 모델
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.5 상호참조 관련 자질 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조 자질 관련 언어학적 이론
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.5.1 상호참조해결을 위한 자질 <br><br><br>
+<br><br><br>
 
 ### 3. 연구방법
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 고차 추론 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 규칙기반 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩을 통한 사전적 지식 활용
 #### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.4 품사 정보
+<br><br><br>
 
+### 4. 실험 및 평가
+<br><br><br>
+
+
+### 5. 결론
+<br><br><br>
+
+
+### 참고문헌(#참고문헌)
 
 <br><br><br>
-### 참고문헌
+### #참고문헌
 ***
 * 강승식․윤보현․우종우(2004), “Coreference Resolution을 위한 3인칭 대명사의 선행사 결정 규칙,” 소프트웨어 및 데이터 공학 11(2), 227-232
 * 김경석(2017), “지시 연쇄 삼각형: 조응과 연상, 직관적 동일 지시,” 어학연구 53(2), 391-414.
