@@ -2,7 +2,7 @@
 ### <center>Combining Linguistic & Pragmatic Features with Transformer for Coreference Resolution</center> <br><br><br>
 
 ### 1. 서론
-#### &nbsp;&nbsp;&nbsp;&nbsp; 1.1 연구목적
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1.1 연구의 목적 및 범위
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.2 연구방법 및 기여
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1.3 논문의 구성
 <br>
