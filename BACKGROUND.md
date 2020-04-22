@@ -7,6 +7,7 @@
 * 영형 조응 현상(Zero Anaphora)
 * 명칭(Names)
 
-### 2.1.2 참조표현과 담화(Discourse) 내 정보 위상(Inforamtion Satus)
-* 담화 구정보(discourse-old)와 담화 신정보(discourse-new) (Prince 1981, Prince 1992)
-* 
+### 2.1.2 참조표현과 정보 위상(Inforamtion Satus) 
+* 청자 구정보(hearer-old)와 청자 신정보(hearer-new) 
+* 담화 구정보(discourse-old)와 담화 신정보(discourse-new) 
+* 추론 가능 표현(inferrables)
