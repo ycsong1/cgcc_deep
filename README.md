@@ -7,44 +7,44 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp; 1.3 논문의 구성
 <br>
 
-### 2. [이론적 배경](BACKGROUND.md)
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.1 용어와 정의
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1 조응어와 상호참조
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.2 데이터세트
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 Message Undedrstanding Conferences
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.2 Automatic Content Extraction
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.3 OntoNotes
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.3 평가도구
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.1 MUC
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.2 B3
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.3 CEAF
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.4 BALNC 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.5 CoNLL
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.6 Error-Driven Evaluation
-#### &nbsp;&nbsp;&nbsp;&nbsp; 2.4 상호참조해결 모델
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학적 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 기계학습 모델
+## 2. [이론적 배경](BACKGROUND.md)
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.1 용어와 정의
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1 조응어와 상호참조
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.2 데이터세트
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 Message Undedrstanding Conferences
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.2 Automatic Content Extraction
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.3 OntoNotes
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.3 평가도구
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.1 MUC
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.2 B3
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.3 CEAF
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.4 BALNC 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.5 CoNLL
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.6 Error-Driven Evaluation
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.4 상호참조해결 모델
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학적 모델 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 모델 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 기계학습 모델
 <br>
 
-### 3. 연구방법
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 고차 추론 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 규칙기반 모델 
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩을 통한 사전적 지식 활용
-#### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
+## 3. 연구방법
+### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 고차 추론 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 규칙기반 모델 
+### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩을 통한 사전적 지식 활용
+### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
 <br>
 
-### 4. 실험 및 평가
+## 4. 실험 및 평가
 <br>
 
-### 5. 결론
+## 5. 결론
 <br>
 
-### [참고문헌](#참고문헌)
+## [참고문헌](#참고문헌)
 <br>
 
-### 참고문헌
+## 참고문헌
 ***
 * 강승식․윤보현․우종우(2004), “Coreference Resolution을 위한 3인칭 대명사의 선행사 결정 규칙,” 소프트웨어 및 데이터 공학 11(2), 227-232
 * 김경석(2017), “지시 연쇄 삼각형: 조응과 연상, 직관적 동일 지시,” 어학연구 53(2), 391-414.
