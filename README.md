@@ -23,15 +23,14 @@
 <br>
 
 ## 3. 연구방법
-### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
-### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩을 통한 사전적 지식 활용
-### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
+### &nbsp;&nbsp;&nbsp;&nbsp;3.1 모델
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 고차 추론 및 트랜스포머 기반 상호참조해결
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 그래프 임베딩을 통한 사전적 지식 활용
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.3 접근성 계층구조(Accessibility Hierarchy)
+### &nbsp;&nbsp;&nbsp;&nbsp;3.2 실험 및 평가
 <br>
 
-## 4. 실험 및 평가
-<br>
-
-## 5. 결론
+## 4. 결론
 <br>
 
 ## [참고문헌](#참고문헌)
