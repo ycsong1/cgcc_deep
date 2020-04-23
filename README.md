@@ -24,8 +24,6 @@
 
 ## 3. 연구방법
 ### &nbsp;&nbsp;&nbsp;&nbsp; 3.1 고차 추론 및 트랜스포머 기반 상호참조해결
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 고차 추론 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 규칙기반 모델 
 ### &nbsp;&nbsp;&nbsp;&nbsp; 3.2 그래프 임베딩을 통한 사전적 지식 활용
 ### &nbsp;&nbsp;&nbsp;&nbsp; 3.3 접근성 계층구조(Accessibility Hierarchy)
 <br>
