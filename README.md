@@ -8,23 +8,18 @@
 <br>
 
 ## 2. [이론적 배경](BACKGROUND.md)
-### &nbsp;&nbsp;&nbsp;&nbsp; 2.1 용어와 정의
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1 조응어와 상호참조
-### &nbsp;&nbsp;&nbsp;&nbsp; 2.2 데이터세트
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 Message Undedrstanding Conferences
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.2 Automatic Content Extraction
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.3 OntoNotes
-### &nbsp;&nbsp;&nbsp;&nbsp; 2.3 평가도구
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.1 MUC
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.2 B3
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.3 CEAF
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.4 BALNC 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.5 CoNLL
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3.6 Error-Driven Evaluation
-### &nbsp;&nbsp;&nbsp;&nbsp; 2.4 상호참조해결 모델
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.1 언어학적 모델 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.2 규칙기반 모델 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4.3 기계학습 모델
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.1 언어학적 설명
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1 참조표현의 유형
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.2 담화구조와 참조표현
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.3 상호참조관계와 언어적 제약조건
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.2 자연어처리에서의 상호참조해결 문제
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 상호참조해결 문제의 정의
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.2 데이터셋과 평가 매트릭스
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.3 상호참조해결 알고리즘 구현 아키텍처
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.4 규칙 기반 모델과 머신 러닝 기반 모델
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.5 한국어 상호참조해결 관련 기존 연구
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2.6 기타 이슈들
+### &nbsp;&nbsp;&nbsp;&nbsp; 2.3 요약
 <br>
 
 ## 3. 연구방법
