@@ -1,12 +1,12 @@
 ## 2. 이론적 배경
 ### 2.1 상호참조 현상에 대한 언어학적 설명 
 ### 2.1.1 참조표현의 유형
-#### 부정명사(Indefinite Noun Phrases)
-#### 한정명사(Definite Noun Phrases)
-#### 대명사(Pronouns)
-#### 지시대명사(Demonstrative Pronouns)
-#### 영형 조응 현상(Zero Anaphora)
-#### 명칭(Names)
+* 부정명사(Indefinite Noun Phrases)
+* 한정명사(Definite Noun Phrases)
+* 대명사(Pronouns)
+* 지시대명사(Demonstrative Pronouns)
+* 영형 조응 현상(Zero Anaphora)
+* 명칭(Names)
 
 ### 2.1.2 담화구조와 참조표현
 #### 정보 위상(Inforamtion Satus) (Prince, 1981, Prince, 1992)
@@ -17,3 +17,7 @@
 * 전향중심(forward-looking centers, Cf), 후향중심(backward-looking centers, Cb), 선호중심(preferred center, Cp)
 * 제약 및 규칙
 #### 접근성 이론(Accessibility Theory) (Ariel, 2001, Ariel, 2013)
+* 중심화 이론의 한계점
+* 접근성 표지로서의 참조표현
+
+### 2.1.3 
