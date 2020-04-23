@@ -1,5 +1,7 @@
 ## 2. 이론적 배경
 ### 2.1 언어학적 설명 
+<br>
+
 ### 2.1.1 참조표현의 유형
 * 부정명사(Indefinite Noun Phrases)
 * 한정명사(Definite Noun Phrases)
