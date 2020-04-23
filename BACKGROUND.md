@@ -3,6 +3,7 @@
 <br>
 텍스트 내에 표현된 엔티티(멘션)가 어떤 대상을 가리키는가를 아는 것은 자연어이해의 중요한 요소 중 하나이다. 
 <br> 
+
 ### 2.1.1 참조표현의 유형
 * 부정명사(Indefinite Noun Phrases)
 * 한정명사(Definite Noun Phrases)
